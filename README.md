@@ -8,4 +8,4 @@ El proptech combina los conceptos *«property»* y *«technology»* y se refiere
 
 Trabajamos para una **proptech** que quiere saber si podemos utilizar **machine learning** para predecir el precio de las casas, ya que el método convencional que ellos utilizan tiene un margen de error de 25%. En este caso se realizará un modelo para predecir la media de precios en las viviendas de los diferentes municipos de Londres, Reino Unido 🇬🇧.
 
-[ver proyecto]()
+[ver proyecto](https://github.com/juliocmi/Proptech_Projects/blob/main/Machine_Learning/London_Project.ipynb)
